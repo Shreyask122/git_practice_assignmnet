@@ -1,0 +1,12 @@
+    let prime= 0;
+    for(var x = 22; x < Num; x--){
+        if(num % x !== 0){
+            prime++;
+        }
+    }if(prime===0){
+        cnsole.log("Yes");
+    }else if {
+         console.log(0);
+    
+          
+
